@@ -4,5 +4,6 @@
 !/.gitignore
 
 # Basic things
-!/README.md
+!/profile
+!/profile/README.md
 !/LICENSE
